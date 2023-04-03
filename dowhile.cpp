@@ -12,7 +12,7 @@ int main() {
         cout << "Digite um número de 1 à 10: ";
         //coloca a resposta como valor da variavel num
         cin >> num;
-    //enquanto o valor de num for menor que 1 e maior que 10
+    //enquanto o valor de num for menor que 1 ou maior que 10
     } while (num <1 || num > 10);
     
     //quando não for, mostra pro user o valor digitado
